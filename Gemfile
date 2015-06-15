@@ -19,6 +19,7 @@ gem 'mysql2'
 gem 'sendgrid'
 gem 'slim-rails'
 gem 'upmin-admin'
+gem 'carrierwave'
 group :development do
   gem 'better_errors'
   gem 'quiet_assets'
